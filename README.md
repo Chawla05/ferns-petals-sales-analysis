@@ -96,10 +96,8 @@ Ferns & Petals wanted to answer the following business questions:
 
 ## 🖼️ Dashboard Preview
 
-```
-```markdown
-![Dashboard](excel_dashbaord.png)
-```
+![Dashboard](excel_dashboard.png)
+
 ---
 
 ## 📂 Repository Structure
