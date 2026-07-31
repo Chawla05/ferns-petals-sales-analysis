@@ -98,7 +98,7 @@ Ferns & Petals wanted to answer the following business questions:
 
 ```
 ```markdown
-![Dashboard](excel_dashboard.png)
+![Dashboard](excel_dashbaord.png)
 ```
 ---
 
