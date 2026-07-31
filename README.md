@@ -97,8 +97,7 @@ Ferns & Petals wanted to answer the following business questions:
 ## 🖼️ Dashboard Preview
 
 ```
-![Dashboard](excel_dashboard picture.png)
-```
+![Dashboard](excel_dashbaord.png)```
 
 ---
 
